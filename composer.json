@@ -1,0 +1,13 @@
+{
+    "name": "atha/json",
+    "description": "Just a json file",
+    "keywords": ["javascript", "json"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
